@@ -16,7 +16,6 @@ React.js
 React-router-dom
 Bootstrap
 ## License
-# License
 MIT License
 
 Copyright (c) [2020] [Alexander Garcia]
