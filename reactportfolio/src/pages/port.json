@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "title": "Drinky Bird Project",
+        "image": "/assets/images/drinkybirdtextupdate.png",
+        "description": "Craft your drinks and find a bar.",
+        "builtWith": "JavaScript, HTML, CSS, jQuery, Materialize",
+        "repo": "https://github.com/Argent-T/Project-1",
+        "deployed": "https://argent-t.github.io/Drinky-Bird/"
+    },
+    {
+        "id": 1,
+        "title": "Eat-Da-Burger!",
+        "image": "/assets/images/burger.png",
+        "description": "This project allows a user enter the burgers they want to eat into the SQL database and then 'Devour' them at the click of a button. The application is deployed on Heroku with the user's 'burger' content saved in a database.",
+        "builtWith": "Node.js, Express.js, SQL, Handlebars",
+        "repo": "https://alexpr704.github.io/Eat-Da-Burger/",
+        "deployed": "https://mysterious-temple-94788.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "title": "Nutrition Journal Project 2",
+        "image": "/assets/images/project2.png",
+        "description": "Log your Nutrition.",
+        "builtWith": "Node.js, Express.js, SQL, Sequelize, Passport.js, Handlebars",
+        "repo": "https://github.com/Sharonyel/project2",
+        "deployed": "https://salty-ravine-80275.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "title": "Weather Dashboard",
+        "image": "/assets/images/searches.png",
+        "description": "This weather dashboard will allow the user to search for a city and displays the current weather conditions and a 5 day forecast. This project also will save the search history for up to 5 cities.",
+        "builtWith": "JavaScript, HTML, CSS",
+        "repo": "https://github.com/AlexPR704/weatherApp/",
+        "deployed": "https://alexpr704.github.io/weatherApp/"
+    },
+    {
+        "id": 4,
+        "title": "Work Day Scheduler",
+        "image": "/assets/images/image1.png",
+        "description": "This day scheduler allows the user to save important tasks to a specific time slot. The hour is color coded to represent whether the time is in the past, present, or future.",
+        "builtWith": "JavaScript, HTML, CSS",
+        "repo": "https://github.com/AlexPR704/scheduler.git",
+        "deployed": "https://alexpr704.github.io/scheduler/"
+    },
+    {
+        "id": 5,
+        "title": "Random Password Generator",
+        "image": "/assets/images/password.png",
+        "description": "Random Password Generators",
+        "builtWith": "JavaScript, HTML, CSS",
+        "repo": "https://github.com/AlexPR704/password.git",
+        "deployed": "https://alexpr704.github.io/password/"
+    }
+]

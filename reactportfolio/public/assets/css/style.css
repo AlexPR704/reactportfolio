@@ -1,0 +1,139 @@
+/* .one { color: #B1AEE6; }
+.oneBackground { background-color: rgb(194, 192, 231); }
+.two { color: #9E9BCC; }
+.twoBackground { background-color: #9a97c8; }
+.three { color: #8A87B3; }
+.threeBackground { background-color: #8A87B3; }
+.four { color: #767499; }
+.fourBackground { background-color: #767499; }
+.five { color: #626180; }
+.fiveBackground { background-color: #626180; }
+.six { color: #4F4D66; }
+.sixBackground { background-color: #4F4D66; }
+.seven { color: #3B3A4D; }
+.sevenBackground { background-color: #3B3A4D; }
+.eight { color: #272733; }
+.eightBackground { background-color: #272733; }
+.nine { color: #141319; }
+.nineBackground { background-color: #141319; } */
+
+
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif !important;
+}
+
+
+.navLinks {
+    color: white !important;
+    padding: 15px !important;
+}
+.navLinks:hover {
+    color: white !important; 
+    text-decoration: underline !important;
+
+}
+#nameHead {
+    text-align: center;
+    font-size: 54px;
+    color: white;
+}
+
+
+#aboutImg {
+    border: 5px double black;
+    margin: 20px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+
+}
+.skillList {
+    background: black;
+    margin: 0 auto;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+
+#portHeader {
+    text-align: center;
+    font-size: 48px;
+}
+.miniImg {
+    height: 200px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+.miniImg:hover {
+    filter: drop-shadow(8px 8px 10px black);
+}
+
+
+.portImg {
+    width: 40vw;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 1px;
+}
+.portLink {
+    color: black;
+}
+.portLink:hover {
+    color: darkgray;
+}
+
+
+#contactHead{
+    font-size: 48px;
+}
+form {
+    background-color: black;
+    border-radius: 10px;
+    padding: 15px;
+    
+}
+label {
+    color: white;
+}
+input{
+    width: 40vw;
+}
+textarea {
+    width: 40vw;
+}
+.contactIcon, .cLink {
+    text-decoration: none !important;
+    color: black;
+}
+.contactIcon:hover, .cLink:hover {
+    text-decoration: none;
+    color: black;
+}
+.contactLinks {
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+}
+.cLink {
+    font-size: 24px;
+    padding-bottom: 50px;
+}
+
+/* APPLIES TO ALL THAT NEED ADDITIONAL STYLING ON SMALLER SCREENS */
+@media only screen and (max-width: 580px) {
+    #aboutImg {
+        position: relative;
+        right: 5%;
+    }
+    #nameHead {
+        text-align: left;
+        padding: 0px;
+        margin: 0px;
+    }
+    .portImg {
+        width: 80vw;
+    }
+}
