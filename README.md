@@ -1,6 +1,6 @@
 ## React Portfolio
-To view this portfolio: https://reactportfolialex.herokuapp.com/portfolio;
-To view the code: https://github.com/AlexPR704/reactportfolio
+* To view this portfolio: https://reactportfolialex.herokuapp.com/portfolio
+* To view the code: https://github.com/AlexPR704/reactportfolio
 
 ## About
 As a newly developed programmer, creating a portfolio using React can help you build towards being employer competitive. In the future I hope to improve on this portfolio to make it more polished than the last. The GOAL is to always be better than before and never quit.
