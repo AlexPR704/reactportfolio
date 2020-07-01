@@ -26,7 +26,7 @@ width: '100%',
         <div>
             <div style={phantom} />
             <div style={style}>
-                { children } Alexander Garcia
+                { children } Copyright © Alexander Garcia 2020
             </div>
         </div>
     )
