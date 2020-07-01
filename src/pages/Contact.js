@@ -28,7 +28,7 @@ function Contact() {
                         </a>
                     </div>
                     <div className="contactBtn">
-                        <a href="/assets/images/Resume.pdf"  target="_blank" rel="noopener noreferrer">
+                        <a href="https://docs.google.com/document/d/1wtc8T6Iza-smwNFPrRL45X1Jdg5FhffbynO2zAZM-YE/edit?usp=sharing"  target="_blank" rel="noopener noreferrer">
                             <i className="fas fa-file fa-2x contactIcon"></i><br />
                             <span className="cLink">Resume</span>
                         </a>
