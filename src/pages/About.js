@@ -10,7 +10,7 @@ function About() {
                 </div>
                 <div className="col-md">  
                     <h3>
-                    Thank you for taking the time to come view my portfolio page. I am 26 years old and I have decided to take control of my future to improve myself. I am currently attending UNCC Full Stack Developer Bootcamp.
+                    Goal driven and team oriented Full Stack Developer with a background in sales and customer service with a Full Stack Web Development Certificate - University of North Carolina. My time in this vigurous boot camp, I was able to acquire skills in Node.js, Express, Handlebars, SQL, JavaScript, CSS, HTML, and React. I’m able to participate and work on a diverse team while solving problems in high-stress environments to reach our goal. An expressive individual who has a desire to create applications that will be able to assist a company or individuals to make their lives easier. I want to be able to bring my technical skills and attention to detail to a company that is willing to help me grow and become a valuable asset to the team.
                     </h3>
                 </div>
             </div>

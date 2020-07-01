@@ -21,6 +21,7 @@ function Portfolio() {
     return (
         <Container>
             <h3 id="portHeader" ref={myRef}>Projects</h3>
+            <p>Select a Project</p>
             <Jumbotron activeProject={active} />
             <div className="row">
                {projects.map(obj => {
