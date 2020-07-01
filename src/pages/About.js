@@ -9,9 +9,9 @@ function About() {
                     <img src="/assets/images/aboutAlex.png" id="aboutImg" alt="Alexander Garcia" />    
                 </div>
                 <div className="col-md">  
-                    <h3>
+                    <p>
                     Goal driven and team oriented Full Stack Developer with a background in sales and customer service with a Full Stack Web Development Certificate - University of North Carolina. My time in this vigurous boot camp, I was able to acquire skills in Node.js, Express, Handlebars, SQL, JavaScript, CSS, HTML, and React. I’m able to participate and work on a diverse team while solving problems in high-stress environments to reach our goal. An expressive individual who has a desire to create applications that will be able to assist a company or individuals to make their lives easier. I want to be able to bring my technical skills and attention to detail to a company that is willing to help me grow and become a valuable asset to the team.
-                    </h3>
+                    </p>
                 </div>
             </div>
             <div className="skillList text-left">
