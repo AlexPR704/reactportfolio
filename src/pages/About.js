@@ -10,7 +10,7 @@ function About() {
                 </div>
                 <div className="col-md">  
                     <p>
-                    Full Stack Web Develope​r with a ​background in sales and customer service providing strong problem-solving skills with a keen eye for details and demonstrations. ​The ability to participate and work on a diverse team while solving problems in high-stress environments to reach our  goal. An expressive individual who has a desire to create applications that will be able to assist a company or individuals to make their lives easier. Would bring technical skills and attention to detail to a company that is willing to help grow and become a valuable asset to the team.
+                    Full Stack Web Develope​r with a ​background in sales and customer service providing strong problem-solving skills with a keen eye for details and demonstrations. ​The ability to participate and work on a diverse team while solving problems in high-stress environments to reach our  goal. An expressive individual who has a desire to create applications that will be able to assist a company or individuals to make their lives easier. I bring technical skills and attention to detail to help grow the organization and become a valuable asset to the team.
                     </p>
                 </div>
             </div>
