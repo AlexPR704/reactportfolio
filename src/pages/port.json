@@ -12,7 +12,7 @@
         "id": 1,
         "title": "Eat-Da-Burger!",
         "image": "/assets/images/burger.png",
-        "description": "This project allows a user enter the burgers they want to eat into the SQL database and then 'Devour' them at the click of a button. The application is deployed on Heroku with the user's 'burger' content saved in a database.",
+        "description": "This project allows the user to enter the burgers they want to eat into the SQL database and then 'Devour' them at the click of a button. The application is deployed on Heroku with the user's 'burger' content saved in a database.",
         "builtWith": "Node.js, Express.js, SQL, Handlebars",
         "repo": "https://alexpr704.github.io/Eat-Da-Burger/",
         "deployed": "https://mysterious-temple-94788.herokuapp.com/"
