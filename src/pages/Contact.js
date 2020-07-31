@@ -40,7 +40,7 @@ function Contact() {
                         </a>
                     </div>
                     <div className="contactBtn">
-                        <a href="https://www.linkedin.com/in/alexander-garcia-pr704/"  target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/alexg704/"  target="_blank" rel="noopener noreferrer">
                             <i className="fab fa-linkedin fa-2x contactIcon"></i><br />
                             <span className="cLink">LinkedIn</span>
                         </a>
