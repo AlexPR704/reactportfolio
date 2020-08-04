@@ -18,7 +18,7 @@ function Contact() {
                     <div className="contactBtn">
                         <a href="mailto:alexg97343@gmail.com">
                             <i className="fas fa-envelope fa-2x contactIcon"></i><br />
-                            <span className="cLink">Email</span>
+                            <span className="cLink">alexg97343@gmail.com</span>
                         </a>
                     </div>
                     <div className="contactBtn">
