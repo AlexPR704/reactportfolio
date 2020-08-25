@@ -24,7 +24,7 @@ function Contact() {
                     <div className="contactBtn">
                         <a href="tel:980-233-0280">
                             <i className="fas fa-phone-square fa-2x contactIcon"></i><br />
-                            <span className="cLink">Phone</span>
+                            <span className="cLink">980-233-0280</span>
                         </a>
                     </div>
                     <div className="contactBtn">
