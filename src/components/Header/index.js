@@ -19,7 +19,7 @@ function Header() {
     return(
         <div>
         <nav className="navbar fixed-top navbar-expand-md justify-content-end" style={nav}>
-            <h3 id="nameHead">| Alexander Garcia | email: alexg97343@gmail.com</h3>
+            <h3 id="nameHead">| Alexander Garcia | Email: alexg97343@gmail.com</h3>
 
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                 <i className="fas fa-caret-square-down fa-2x navLinks"></i>
